@@ -32,7 +32,9 @@ const Navbar = () => {
         <div className="hidden sm:flex space-x-4 items-center text-sm">
           <Link to='/projects'>Projects</Link>
           <Link to='/experience'>Experience</Link>
-          <Link to='/contact'>Contact</Link>
+          <Link to='/pos'>POS</Link>
+          <Link to='/contact'>Contact</Link>  
+          
         </div>
 
         <div className="sm:hidden">
@@ -50,6 +52,7 @@ const Navbar = () => {
             <li><Link to='/projects' onClick={closeMobileMenu}>Projects</Link></li>
             <li><Link to='/experience' onClick={closeMobileMenu}>Experince</Link></li>
             <li><Link to='/contact' onClick={closeMobileMenu}>Contact</Link></li>
+            <li><Link to='/pos' onClick={closeMobileMenu}>Pos</Link></li>
           </ul>
         </div>
       </div>
