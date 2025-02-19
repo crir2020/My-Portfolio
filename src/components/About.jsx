@@ -41,7 +41,7 @@ I'm a Software Engineer in the making 🎯, passionate about App Developement, D
               On a different note,  It's not just a hobby; It's a way of telling me that everyything is simple don't make it complex.🌟📷</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/19VgwmzuTNjx5sD0iOow1ZY0ZOj3llanG/view?usp=sharing'
+              url='https://drive.google.com/file/d/1fxq5bFi_ZhM-hLMPFqUf0g7Ra2j_xLw2/view?usp=sharing'
               text='View Resume →'
               padding={`p-3`}
             />
